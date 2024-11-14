@@ -1,0 +1,24 @@
+# Ignore virtual environments
+venv/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Distribution / packaging
+*.egg-info/
+*.egg/
+dist/
+build/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache
+
+# IDE and OS generated files
+.vscode/
+.idea/
+.DS_Store
